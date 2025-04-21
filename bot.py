@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = '7590488140:AAEJnyK9R2hD_-KZ1qw65a5aickVOh-EdFU'
+TOKEN = '8104442210:AAEDsmDmw9maazkekNM2rhPAhbAqfuzzfhE'
 ADMIN_CHAT_ID = 1435346034  # Bu yerga adminning Telegram ID sini yozing
 
 bot = telebot.TeleBot(TOKEN)
